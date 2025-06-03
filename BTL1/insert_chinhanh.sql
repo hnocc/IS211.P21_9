@@ -1,0 +1,8 @@
+INSERT INTO CHINHANH (CHINHANH_ID, TENCHINHANH, DIACHI)
+VALUES ('CN1', 'Chi nhánh Quận 1', '65 Lê Lợi, Quận 1, TP.HCM');
+
+INSERT INTO CHINHANH (CHINHANH_ID, TENCHINHANH, DIACHI)
+VALUES ('CN2', 'Chi nhánh Bình Thạnh', '180 Điện Biên Phủ, Phường 15, Bình Thạnh, TP.HCM');
+
+INSERT INTO CHINHANH (CHINHANH_ID, TENCHINHANH, DIACHI)
+VALUES ('CN3', 'Chi nhánh Thủ Đức', '35 Võ Văn Ngân, Phường Linh Chiểu, Thủ Đức, TP.HCM');
