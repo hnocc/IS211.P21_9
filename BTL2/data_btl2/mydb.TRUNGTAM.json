@@ -1,0 +1,12 @@
+[{
+  "_id": "TT001",
+  "ten": "Trung Tâm Ngoại Ngữ A",
+  "diachi": "123 Nguyễn Trãi, Hồ Chí Minh",
+  "sodienthoai": "0241234567"
+},
+{
+  "_id": "TT002",
+  "ten": "Trung Tâm Ngoại Ngữ B",
+  "diachi": "987 Hàn Thuyên, Hồ Chí Minh",
+  "sodienthoai": "0234599876"
+}]

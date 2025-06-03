@@ -1,0 +1,25 @@
+[{
+  "_id": "GV666",
+  "hoTen": "abc",
+  "email": "gv01@example.com",
+  "soDienThoai": "091116789",
+  "chuyenMon": "TOEIC",
+  "maTrungTam": "TT001"
+},
+{
+  "_id": "GV777",
+  "hoTen": "xyz",
+  "email": "gv02@example.com",
+  "soDienThoai": "091216789",
+  "chuyenMon": "Giao tiếp",
+  "maTrungTam": "TT001"
+},
+{
+  "_id": "GV888",
+  "hoTen": "ijk",
+  "email": "gv03@example.com",
+  "soDienThoai": "091316789",
+  "chuyenMon": "Giao tiếp",
+  "maTrungTam": "TT001"
+}
+]

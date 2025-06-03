@@ -1,0 +1,72 @@
+[{
+  "_id": "LH001",
+  "tenKhoaHoc": "TOEIC A2",
+  "trinhDo": "A2",
+  "soTuan": 12,
+  "hocPhi": 6500000,
+  "maTrungTam": "TT001",
+  "maGiangVien": "GV001",
+  "ngayBatDau": "2025-06-08 00:00:00",
+  "ngayKetThuc": "2025-08-31 00:00:00",
+  "lichHoc": "Thứ 2 - Thứ 5 (18:00 - 20:00)"
+},
+{
+  "_id": "LH002",
+  "tenKhoaHoc": "Giao tiếp B1",
+  "trinhDo": "B1",
+  "soTuan": 12,
+  "hocPhi": 7000000,
+  "maTrungTam": "TT001",
+  "maGiangVien": "GV002",
+  "ngayBatDau": "2025-06-15 00:00:00",
+  "ngayKetThuc": "2025-09-07 00:00:00",
+  "lichHoc": "Thứ 2 - Thứ 5 (18:00 - 20:00)"
+},
+{
+  "_id": "LH003",
+  "tenKhoaHoc": "Giao tiếp B2",
+  "trinhDo": "B2",
+  "soTuan": 12,
+  "hocPhi": 7500000,
+  "maTrungTam": "TT001",
+  "maGiangVien": "GV003",
+  "ngayBatDau": "2025-06-22 00:00:00",
+  "ngayKetThuc": "2025-09-14 00:00:00",
+  "lichHoc": "Thứ 2 - Thứ 5 (18:00 - 20:00)"
+},
+{
+  "_id": "LH004",
+  "tenKhoaHoc": "TOEIC A2",
+  "trinhDo": "A2",
+  "soTuan": 12,
+  "hocPhi": 6500000,
+  "maTrungTam": "TT002",
+  "maGiangVien": "GV004",
+  "ngayBatDau": "2025-06-08 00:00:00",
+  "ngayKetThuc": "2025-08-31 00:00:00",
+  "lichHoc": "Thứ 2 - Thứ 5 (18:00 - 20:00)"
+},
+{
+  "_id": "LH005",
+  "tenKhoaHoc": "Giao tiếp B1",
+  "trinhDo": "B1",
+  "soTuan": 12,
+  "hocPhi": 7000000,
+  "maTrungTam": "TT002",
+  "maGiangVien": "GV005",
+  "ngayBatDau": "2025-06-15 00:00:00",
+  "ngayKetThuc": "2025-09-07 00:00:00",
+  "lichHoc": "Thứ 2 - Thứ 5 (18:00 - 20:00)"
+},
+{
+  "_id": "LH006",
+  "tenKhoaHoc": "Giao tiếp B2",
+  "trinhDo": "B2",
+  "soTuan": 12,
+  "hocPhi": 7500000,
+  "maTrungTam": "TT002",
+  "maGiangVien": "GV006",
+  "ngayBatDau": "2025-06-22 00:00:00",
+  "ngayKetThuc": "2025-09-14 00:00:00",
+  "lichHoc": "Thứ 2 - Thứ 5 (18:00 - 20:00)"
+}]

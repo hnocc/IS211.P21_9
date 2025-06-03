@@ -1,0 +1,60 @@
+[{
+  "_id": "HV001",
+  "hoten": "Nguyễn Thị Hồng",
+  "gioitinh": "Nữ",
+  "ngaysinh": "2003-06-15",
+  "email": "hong.nguyen@example.com",
+  "sodienthoai": "0901234567",
+  "diachi": "123 Trần Hưng Đạo, Q1, TP.HCM",
+  "trungtam_id": "TT001"
+},
+{
+  "_id": "HV002",
+  "hoten": "Trần Văn Kiên",
+  "gioitinh": "Nam",
+  "ngaysinh": "2001-03-22",
+  "email": "kien.tran@example.com",
+  "sodienthoai": "0902345678",
+  "diachi": "456 Nguyễn Văn Cừ, Q5, TP.HCM",
+  "trungtam_id": "TT001"
+},
+{
+  "_id": "HV003",
+  "hoten": "Lê Quang Huy",
+  "gioitinh": "Nam",
+  "ngaysinh": "2000-11-30",
+  "email": "huy.le@example.com",
+  "sodienthoai": "0903456789",
+  "diachi": "789 Lý Thường Kiệt, Q10, TP.HCM",
+  "trungtam_id": "TT001"
+},
+{
+  "_id": "HV004",
+  "hoten": "Đỗ Thị Mai",
+  "gioitinh": "Nữ",
+  "ngaysinh": "2004-02-18",
+  "email": "mai.do@example.com",
+  "sodienthoai": "0904567890",
+  "diachi": "321 Hai Bà Trưng, Q3, TP.HCM",
+  "trungtam_id": "TT002"
+},
+{
+  "_id": "HV005",
+  "hoten": "Phạm Quốc Anh",
+  "gioitinh": "Nam",
+  "ngaysinh": "2002-09-10",
+  "email": "anh.pq@example.com",
+  "sodienthoai": "0905678901",
+  "diachi": "15 Lê Lai, Q1, TP.HCM",
+  "trungtam_id": "TT002"
+},
+{
+  "_id": "HV006",
+  "hoten": "Vũ Ngọc Lan",
+  "gioitinh": "Nữ",
+  "ngaysinh": "2005-01-05",
+  "email": "lan.vu@example.com",
+  "sodienthoai": "0906789012",
+  "diachi": "99 Nguyễn Đình Chiểu, Q3, TP.HCM",
+  "trungtam_id": "TT002"
+}]

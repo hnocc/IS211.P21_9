@@ -1,0 +1,72 @@
+[{
+  "_id": "NV001",
+  "hoten": "Trần Thị B",
+  "gioitinh": "Nữ",
+  "email": "tranb@ttnn.com",
+  "sodienthoai": "0988123456",
+  "vaitro": "Lễ tân",
+  "trungtam_id": "TT001"
+},
+{
+  "_id": "NV002",
+  "hoten": "Nguyễn Văn D",
+  "gioitinh": "Nam",
+  "email": "nguyenvd@ttnn.com",
+  "sodienthoai": "0912345678",
+  "vaitro": "Quản lý trung tâm",
+  "trungtam_id": "TT001"
+},
+{
+  "_id": "NV003",
+  "hoten": "Lê Thị E",
+  "gioitinh": "Nữ",
+  "email": "lethee@ttnn.com",
+  "sodienthoai": "0908765432",
+  "vaitro": "Nhân viên tư vấn",
+  "trungtam_id": "TT001"
+},
+{
+  "_id": "NV004",
+  "hoten": "Phạm Minh F",
+  "gioitinh": "Nam",
+  "email": "minhf@ttnn.com",
+  "sodienthoai": "0933456789",
+  "vaitro": "Kế toán",
+  "trungtam_id": "TT001"
+},
+{
+  "_id": "NV005",
+  "hoten": "Trần Thị X",
+  "gioitinh": "Nữ",
+  "email": "tranb@ttnn.com",
+  "sodienthoai": "0988123456",
+  "vaitro": "Lễ tân",
+  "trungtam_id": "TT002"
+},
+{
+  "_id": "NV006",
+  "hoten": "Nguyễn Văn M",
+  "gioitinh": "Nam",
+  "email": "nguyenvd@ttnn.com",
+  "sodienthoai": "0912345678",
+  "vaitro": "Quản lý trung tâm",
+  "trungtam_id": "TT002"
+},
+{
+  "_id": "NV007",
+  "hoten": "Lê Thị N",
+  "gioitinh": "Nữ",
+  "email": "lethee@ttnn.com",
+  "sodienthoai": "0908765432",
+  "vaitro": "Nhân viên tư vấn",
+  "trungtam_id": "TT002"
+},
+{
+  "_id": "NV008",
+  "hoten": "Phạm Minh T",
+  "gioitinh": "Nam",
+  "email": "minhf@ttnn.com",
+  "sodienthoai": "0933456789",
+  "vaitro": "Kế toán",
+  "trungtam_id": "TT002"
+}]

@@ -1,0 +1,42 @@
+[{
+  "_id": "DKNEW001",
+  "maHocVien": "HV001",
+  "maLop": "LH001",
+  "ngayDangKy": "2025-05-09",
+  "trangThai": "Đang học"
+},
+{
+  "_id": "DKNEW002",
+  "maHocVien": "HV002",
+  "maLop": "LH001",
+  "ngayDangKy": "2025-05-09",
+  "trangThai": "Đang học"
+},
+{
+  "_id": "DKNEW003",
+  "maHocVien": "HV003",
+  "maLop": "LH001",
+  "ngayDangKy": "2025-05-09",
+  "trangThai": "Đang học"
+},
+{
+  "_id": "DKNEW004",
+  "maHocVien": "HV004",
+  "maLop": "LH003",
+  "ngayDangKy": "2025-05-09",
+  "trangThai": "Đang học"
+},
+{
+  "_id": "DKNEW005",
+  "maHocVien": "HV005",
+  "maLop": "LH003",
+  "ngayDangKy": "2025-05-09",
+  "trangThai": "Đang học"
+},
+{
+  "_id": "DKNEW006",
+  "maHocVien": "HV006",
+  "maLop": "LH004",
+  "ngayDangKy": "2025-05-09",
+  "trangThai": "Đang học"
+}]
