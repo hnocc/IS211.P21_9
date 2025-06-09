@@ -62,5 +62,5 @@ Tài liệu kỹ thuật, script Python
 - Oracle RDBMS, SQL, PL/SQL  
 - MongoDB, PyMongo  
 - Radmin
-- 
+  
 ---
