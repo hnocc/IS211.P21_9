@@ -64,3 +64,6 @@ Tài liệu kỹ thuật, script Python
 - Radmin
   
 ---
+
+## Ghi chú
+Dự án được thực hiện với mục đích học thuật trong khuôn khổ môn học **Cơ sở dữ liệu phân tán** tại UIT – Đại học Công nghệ Thông tin, ĐHQG-HCM.
